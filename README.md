@@ -51,6 +51,7 @@ I will also set up cron in step 7.
 ## Planning Documents
 
 - [Design document](docs/design-doc.md)
+- [MVP Planning PDF](docs/MVP%20Planning.pdf)
 - [Eisenhower Matrix](docs/eisenhower-matrix.md)
 - [System Diagram - editable source](docs/system-diagram.drawio)
 

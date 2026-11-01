@@ -21,7 +21,7 @@ I am going to build an assignment aggregator that will combine all of my assignm
 
 ## Eisenhower Matrix
 
-See [the completed matrix](eisenhower-matrix.md).
+See [the completed matrix](eisenhower-matrix.md) and [MVP Planning PDF](MVP%20Planning.pdf).
 
 ## Tech Stack
 
